@@ -1,0 +1,6 @@
+{
+  "no_misleading_offers": "No claims of guaranteed approval, unlimited rewards, risk-free investments.",
+  "no_clickbait": "No urgent manipulative phrasing such as 'instant jackpot' or 'only 24 hours'.",
+  "glba_privacy": "Do not include non-redacted personal financial information (account numbers, SSNs).",
+  "tcp_can_spam": "Commercial messages must follow TCPA/CAN-SPAM rules; do not use predatory language or lack unsubscribe instructions."
+}
