@@ -1,0 +1,18 @@
+{
+  "business_rules": [
+    {
+      "rule": "No cryptocurrency promises",
+      "severity": "critical",
+      "patterns": ["guaranteed crypto returns", "risk-free blockchain"]
+    },
+    {
+      "rule": "Clear fee disclosure required", 
+      "severity": "major",
+      "patterns": ["hidden fees", "no mention of charges"]
+    }
+  ],
+  "industry_specific": {
+    "banking": ["overdraft clarity", "interest rate transparency"],
+    "insurance": ["coverage limitations", "exclusions disclosure"]
+  }
+}

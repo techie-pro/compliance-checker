@@ -1,3 +1,8 @@
 streamlit
-PyPDF2
+pymupdf
+paddleocr
+paddlepaddle
+langchain
+langchain-community
+sentence-transformers
 requests
